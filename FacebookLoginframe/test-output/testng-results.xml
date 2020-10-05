@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FacebookLoginframe" duration-ms="18047" started-at="2020-10-05T13:53:44 EDT" finished-at="2020-10-05T13:54:02 EDT">
+    <groups>
+    </groups>
+    <test name="TC_LoginTest_001" duration-ms="18047" started-at="2020-10-05T13:53:44 EDT" finished-at="2020-10-05T13:54:02 EDT">
+      <class name="com.testCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testCases.TC_LoginTest_001@333291e3]" name="setup" is-config="true" duration-ms="10127" started-at="2020-10-05T13:53:45 EDT" finished-at="2020-10-05T13:53:55 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.testCases.TC_LoginTest_001@333291e3]" name="loginTest" duration-ms="6016" started-at="2020-10-05T13:53:55 EDT" finished-at="2020-10-05T13:54:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testCases.TC_LoginTest_001@333291e3]" name="teardown" is-config="true" duration-ms="1461" started-at="2020-10-05T13:54:01 EDT" finished-at="2020-10-05T13:54:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testCases.TC_LoginTest_001 -->
+    </test> <!-- TC_LoginTest_001 -->
+  </suite> <!-- FacebookLoginframe -->
+</testng-results>
